@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pushpendra-Verma
 - 👀 I’m interested in staying alive
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate with noone
-- 📫 How to reach me- you can call me only if you are a female.
+- 📫 How to reach me- message me or mail me
 
 <!---
 Pushpendra-Verma/Pushpendra-Verma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
