@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pushpendra-Verma
 - 👀 I’m interested in staying alive
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate with noone
+- 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me- message me or mail me
 
 <!---
